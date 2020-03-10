@@ -1,2 +1,3 @@
 # iot-solution-accelerators
-iot-solution-accelerators
+
+[Device Simulation Demo](./docs/IoTDeviceSimulation.pdf)
